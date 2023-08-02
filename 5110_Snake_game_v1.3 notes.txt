@@ -1,0 +1,23 @@
+Author: Suleyman TURAN
+Date: 01.12.2018 
+A simple game console includes only snake game
+--------------------------------------------------------
+Features:
+*Score HUD
+*Interrupt driven keyboard input
+*Game Over animation
+*New game option
+*Main menu (Added in v1.1)
+*Smooth control (Even smoother since v1.2 due to custom keyboard design improvements)
+*Sound effects (Added in v1.2)
+*Three backlight options: ON , OFF , AUTO (Added in v1.2)
+*Added submenu:Secenekler (includes sound and backlight options) (Added in v1.2)
+*HighScore system (with its own menu) (Added in v1.3)
+---------------------------------
+Possible Upgrades:
+
+*Intro Animation
+*Adjustable speed and difficulty
+*Wider game choices
+*Wider food variety
+*Different Levels including walls and teleport zones

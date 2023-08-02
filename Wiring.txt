@@ -1,0 +1,15 @@
+------Custom Keyboard------
+*Interrupt : Digital Pin 3
+*Analog Output : Analog Pin 0
+------5110 LCD ------------
+*CLK : Digital Pin 8
+*DIN : Digital Pin 9
+*DC : Digital Pin 10
+*CE : Digital Pin 12
+*RST : Digital Pin 11
+--------LDR sensor----------
+*Analog input : Analog Pin 5
+--------Buzzer--------
+*PWM output: Digital Pin 7	
+-------------
+Used arduino model is arduino nano
